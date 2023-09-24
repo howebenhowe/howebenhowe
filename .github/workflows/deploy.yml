@@ -1,4 +1,4 @@
-name: Deploy SwampDogHobble site to Pages
+name: Deploy howebenhowe site to Pages
 
 on:
   push:
@@ -37,7 +37,7 @@ jobs:
         run: pnpm install
       - name: Build with VitePress
         run: |
-          pnpm swampdog:build
+          pnpm howebenhowe:build
           touch .vitepress/dist/.nojekyll
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
