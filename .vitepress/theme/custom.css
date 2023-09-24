@@ -1,0 +1,8 @@
+/*
+ * See all variables that can be overidden: https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css
+ * and documentation on how to override the theme: https://vitepress.dev/guide/extending-default-theme#customizing-css
+ * */
+:root {
+  --vp-c-brand-1: #D84727;
+  --vp-c-brand-2: #CDEDF6;
+}
