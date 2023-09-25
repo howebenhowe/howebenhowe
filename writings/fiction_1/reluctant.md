@@ -1,4 +1,4 @@
-600 w, 2 I's, still first-person perspective
+# Reluctant
 
 After I pull back that first panel, I am surprised by the stale funk that meets my nose. The smell isn't repulsive, at least not anymore, but it suggests something foul from a while ago. Peeling back a few more ribs from the plaster-and-lath wall matter brings a flood of the smell out. Dust kicks up in puffs from the disintigrating material too, but that's what the mask is for. Goddamn this stinks.
 

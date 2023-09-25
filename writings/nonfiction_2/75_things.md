@@ -1,3 +1,5 @@
+# 75 things
+
 1. I compulsively tear at my fingers. My best friend Peter characterized it as "Dissassembling [your] hands." I thought that was very generous of him. Perhaps that kind of generosity is what makes a great friend.
 1. There's a scattering of bits of picked skin across my lap. If that's disgusting, I can't really apologize in earnest. Sometime in community college years ago I decided I was too damn tired of hiding my bleeding thumbs, and that repulsion others may or may not feel to my self-destructive neurosis just couldn't be my problem. I don't fully believe that mission yet, but I'm stubbornly committed to it.
 1. Last semester I learned that is called dermatillomania. A classmate related her family's history of trichotillomania. Dermatillomania was collateral damage learning [harr?]

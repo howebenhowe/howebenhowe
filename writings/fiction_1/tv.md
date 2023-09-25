@@ -1,4 +1,5 @@
-# TV playing, scene <> tv space interaction
+# TV
+
 The window had been loose in its housing for years already. Whenever one of the residents wanted to let in a breeze, they had to prop the heavy wood frame up with a wood spatula or a clumsily wedged cutting board. Right now, the breeze is a roaring wind, and the window is a shivering membrane between the dim, squash-colored kitchen and the tropical storm outside. Flashes in the storm catch raindrops for a frozen instant in their crawl down the surface of the glass before their sparkle fades and they vanish into the dusk light without.
 
 Inside the kitchen, the light plays a slower game as the gentle glow from a countertop TV warps the orange-brown into the growing dusk's undifferentiatable greys. A couple on screen are getting dressed, but none too efficiently. The man tries on shirt after shirt, each one more garish than the last, and his mate disapproves, her eyebrows arching impossibly higher between each costume changes. A chorus of laughter arrives with every cut to her face.

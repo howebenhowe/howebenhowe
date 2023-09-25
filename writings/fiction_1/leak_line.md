@@ -1,4 +1,7 @@
-# meeting the characters
+# Leak Line
+
+## meeting the characters
+
 They both had too much to drink, but especially Bridgette. She lay slung along the wooden bench, nevermind the dividers intended to discourage stretching out. Peter was sitting up, mostly, and would soon emerge from his stupor.
 It was hard to remember quite what he was thinking about from moment to minute. His consciousness was tightly focused in time, pared down to the instant in front of his eyes. His eyes were still closed, though, and his consciousness was making clumsy circles on Dana's smile. It had been brief, but still doubled-up--more glance than can fit in an accident, and Peter had kept gazing after she looked away. He'd kept his eyes on her as he threw back another few fiery shots. Now he was sitting, head hung and eyes closed, looping through the evening repeatedly, lost to the present.
 Bridgette, by contrast, is loose in a smear of color and sensation. She twitches a little, but dopily, like the twitch of an animal long since caught in a trap. Her feet abutted the end of the bench, her knees bent above the first armrest and her neck and head curled up against the second. She had stuffed her raincoat into the corner of the armrest, given herself just enough bed-shape to spill onto. Her hair was a tousled mess making a rats-nest snarl with her raincoat beneath. She had tucked her bare hands between her thighs but slid them against each other from time, the denim doing precious little to address the cold.
@@ -19,8 +22,9 @@ Peter crossed over to the other side of the track and looked up and down.
 "You see a notice--paper--announcement thing over there?" she asked.
 "No."
 Bridgette stood up, rolled her neck, and put on her raincoat. "Well, I hope it isn't raining any more. I'm cold." she said, heading up the platform toward Peter. He nodded and hunched his own shoulders higher, turning to walk with her toward the stairs.
-—
-# the entrance is locked
+
+## the entrance is locked
+
 The turnstyles were encrusted in black paint, the revolving door kind where they lock up when you try to enter but spin freely when you leave. Only--
 "What the hell." said Peter. He had pulled his sweatshirt sleeves down over his fingers before grabbing a hold of the turnstile door bars.
 "Peter, c'mon." said Bridgette, stepping in to displace him.
@@ -34,8 +38,11 @@ They stepped back and looked back and forth at the gridded steel membrane that o
 "I can't make it out. It looks--smeared? 'No *something something* at this station all weekend'." said Peter.
 "This blows and I'm cold." offered Bridgette.
 "Yeah."
+
 ---
-# back on the platform
+
+## back on the platform
+
 They walked the platform twice, certain they had missed something in the tiled walls, but there was only the one staircase, the one entrance. Back at the stairway, Bridgette stopped walking.
 "So?" she asked.
 "So it's gonna be a long, cold night Bridge." replied Peter.
@@ -46,8 +53,9 @@ Bridgette turned to face him fully, “Peter, we can’t stay here. It’s cold 
 “What? Bridge, no.”
 “I think we have to. Besides, if it’s closed all weekend, no other trains are going to run through here.” excitement was beginning to creep into Bridgette’s voice. She waited for a moment, eyebrows high and expectant. Peter shuffled his weight and glanced back at the staircase.
 “Outstanding” said Brdgette, turning towards the tracks and walking off.
-—
-# Peter climbs down
+
+## Peter climbs down
+
 Seated on the studded yellow edge of the platform with his legs swinging, Peter suddenly appreciated how much open air hung between him and the tunnel floor.
 "You sure? We can wait." Bridgette said, her hand squeezing lightly at his shoulder.
 "No, yeah, I'm good. I just, ah..." The sentence dissolved as Peter surveyed the floor below. His eyes were adjusting a little to the dark from this close. He twisted around, his hips now hanging free and his weight on his palms. After adjusting his grip, he lowered himself down slowly. The toes of his shoes scraped the tunnel wall as he descended, his jeans dragging with a sick his.
@@ -63,7 +71,7 @@ Opaque, greasy black smears ran down Peter's thighs.
 "You don't say." replied Peter, looking up. His hair was matted on the right side and his cheek was newly moist and gritty. He wiped at it and scrubbed at his hair with the sleeve of his sweatshirt.
 "Let's just get going." he said, turning and heading up the tracks. Bridgette hesitated a moment before stepping in line behind him.
 
-# leaving the initial station
+## leaving the initial station
 
 Even though he's only a few paces in front of her, Peter was quickly swaddled in the close dark. Bridgette groaned pointedly, dramatically, and trotted after him. She put a cheerful canter into her stride, hoping to pry Peter from his glum mood with by the chipper clip-clop of her footfalls. Her pace echoed down the tunnel. Bridgette could make out an occaisonal hiss and dribble, but otherwise their walking was the only activity. In spite of her will to adventure, the emptiness of her gesture settled on Bridgette, clammy and cold.
 "Goddamn it's cold!" she said, loudly. Her voice hung lonely in he air for a moment before wearing out.
@@ -77,7 +85,7 @@ Even though he's only a few paces in front of her, Peter was quickly swaddled in
 "I'm not sure," Peter said, "but let's get off the tracks in case it is." 
 Bridgette clambered to tunnel edge and then up to the narrow access walkway a few feet up the tunnel wall. Peter followed, and they perched together.
 
-# maintenance train
+## maintenance train
 
 "Gotta be a train," Peter said, "but it's a slow one."
 The groaning grew louder, the texture of clanking and churning began to fill the closed space with tumult. The nose of the maintenance train finally entered Peter's small sphere of phone light. It lumbered along the parallel tracks, a mechanical beast of burden. The posts and beams between the two parallel lines obstructed Peter's view of the train, interfering with his survey.
@@ -90,7 +98,7 @@ When the last car was pulling away down the tunnel from them, Bridgette said aga
 
 * 
 
-# tree roots
+## tree roots
 
 Bridgette suddenly lurched sideways, recoiling. With her head turned over her shoulder, she coudn't see where she was placing her feet and she stumbled and fell. She hit the ground hard, and the pain made her gasp in the breath that had caught. She began yelling and stammering even as she kept scrambling backward.
 
@@ -119,7 +127,7 @@ But Peter was leaning into the root swarm, pressing some out of the way and peer
 "Peter! Come on, I'm very ready to go." Bridgette cut in.
 "Yeah, coming." said Peter, pulling back from the incongruity. His eyes lingered though, and his curious scowl.
 
-# track hub
+## track hub
 
 Bridgette started off into the dark, not waiting for Peter to lead with his phone. By now, her eyes had acclimated enough that she could pick up on the thin slivers of ricochet light caught on tracks, pointing the way down tunnel. Her feet scuffed a little, but at least walking forward into the dark meant walking away from that abberation.
 
@@ -137,7 +145,7 @@ And there were. Many of them. Bridgette counted three on either side, which was 
 "Wait!" Bridgette cried. "No, point it away. See, there."
 Something glowed, visible only for its contrast.
 
-# empty platform
+## empty platform
 
 It was obvious on approach that the platform was without activity, but it's pale illuumination offered a bare promise of othe people or maybe a way out Bridgette was the first up the empty platform. She was puffing from having hurried across the uneven ruts of several tracks, but threw her arms high over her head, triumphant.
 "We are saved, Peter!" she bellowed. "I can't wait to taste sweet open air."
@@ -152,7 +160,7 @@ Peter was walking down platform a little further from her. The surface elevator 
 "Bridge, can you give me a hand? I wanna get up there." Peter said, pointing up the support post. Bridgette hunched her shoulders higher and curled a little tighter on the bench.
 "Alright." Peter said dryly, surveying dubious toeholds of rivets and an electrical box, "looks like fun."
 
-# Peter climbs up to a grate-grotto
+## Peter climbs up to a grate-grotto
 Once up the post and onto joist, it was easier going. Peter crawled along the beam then until the point it ran under a tall concrete slab. Peter rose delicately to his feet, curled his fingers over the edge of the slab, and hoisted himself up into the clear blue light. It was soft under his knees. The slab was carpeted in cigarette butts, maybe a million of them. Peter stood quickly, brushed his filthy hands on his filthy jeans reflexively, then looked up.
 
 Bridgette stirred on the bench. She hadn't slept exactly, but she'd lost some of her tether to consciousness. "Peter?" she called, but she couldn't hear him.
@@ -169,8 +177,8 @@ Peter cried out again, pleading "Yes! Hello? Please help! I'm stuck down here wi
 
 He can see clearly the peanut-shaped (do better) shadows of feet passing back and forth over the grate. Many feet. Many shades pass by overhead. They are in another place, attention above. He shouts again and again, can't hear Bridgette below him anymore from the noise station above and his own bellowing. He grabs a fistfull of cigarettes and throws them up. They make it a few feet and then scatter against the concrete walls and tumble back down. He gives up and descends.
 
-# after the grate-grotto
+## after the grate-grotto
 Peter descends, finds Bridgette lying on the bench again. He wakes her up. Literally, reuse the lines from the first part all over again. Bridgette is dislodged from a dream smear of color and sound or whatever. This time when he addresses her as Bridge, she is indifferent and a little numb. Peter tells her they need to press on to the next station; this one has nothing in it. Bridgette isn't fond of that idea, as if it is the first time she has heard anything about it, but ambiguously so. Peter is exasperated; it was her idea in the first place and now they are in the middle of the problem, so come on Bridge. She agrees, partly confused by how they arrived to the midpoint of a plan she can remember. She's concerned for Peter.
 
-# oncoming train -> exit
+## oncoming train -> exit
 Back on the tracks, they are making good and steady headway. Then the rumble and whine of a train approaching. A long line that had been hanging slack on the tunnel ceiling is jerked from far off and sways menacingly overhead. Bridgette is staring back puzzled, but Peter leaps to action, pushing Bridgette. They both get up to a run. They huff and puff, thasting the graphite in the air. Peter glances over his shoulder and can see a ring of light in the slight bend of the tunnel, approaching. Looking ahead, they can see the glow of the next platform. They run and run, arrive to the signalling corner. Peter is flailing. He jumps up, his hands slip. He glances back and yells at Bridegette. She is a silhouette against the blooming light behind her. Peter is loopy, so it's a big wall of yellow, the advancing sun. He jumps again, fingers make purchase on the guard rail. He hauls himself up, onto his back. There's a person there! But no time, Peter turns back to the tunnel and yells. Bridgette takes the last few steps, gets to the corner of the station, and with a scramble is up. The train runs screeching by, then slows, stopping at the station. Peter and Bridgette are panting in a pile. People enter and exit the train cars, a modest early-morinng shuffle. Nobody pays them any attention. The train leaves, and Peter and Bridgette get up. Peter is elated. Bridgette is relieved, but still confused. Peter's adrenaline interpretation is the one we associate with, the one that makes sense. Bridgette is inexplicably cool, like she has had a very different experience from him. While he's bent double at the waist, laughing, she starts off. She gets to the escalator before he realizes she's not with him anymore. She's drifting up to the surface. He starts walking after her, not sure if he will find/catch/encounter her.

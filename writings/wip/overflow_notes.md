@@ -1,4 +1,5 @@
 # assignment
+
 750 words
 any topic discussed or not
 regarding required text/beauty + being just

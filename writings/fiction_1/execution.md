@@ -1,4 +1,4 @@
-G700w group of normal folks in normal (business-housable) environment choose to put someone to death. They deliberate. POV must stay out of their heads.
+# Execution
 
 Rufus was feasting. Little disintegrated bits of popcorn sprayed from his crumpling and uncrumpling fuzzy electric purple lips. None, of course, made it down his throat. That was his curse: his every wriggling conscious moment on the puppetteer's wrist was made sour by his craving for popcorn, and yet he could never actually eat even a mouthful.
 "Mmph, gromph, nomchomp. Gosh, I'm really sorry." said Rufus. "I can't help it when I'm nervous."

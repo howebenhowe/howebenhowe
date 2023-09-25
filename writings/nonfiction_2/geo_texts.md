@@ -1,3 +1,5 @@
+# Geo Texts
+
 B: Hi Geo, it's Ben Howe. I had a lovely walk + talk with Madeline yesterday. She pointed out that we could use a little reconciliation. True enough, Madeline. Looking inside myself, though, there's not really much there needs resolving. Back in April I bristled in a writing group at a turn of phrase. No great shakes one way or the other, but it came at a time when I had a few things exploding in my life. I put it out of my mind to better show up for the people in my immediate community who needed my energy. I still feel good about that choice, I'm sure you get it. Family comes first type thing. But, here, months on down the road, I make no bones about that past moment. I don't much trust text messages, though, neither for understanding nor for expressing. Wanna meet up sometime in the next couple weeks? Have a cup of tea and clear some air, something like that?
 
 G: Appreciate you finally reaching out. There is a lot I could say. But wanna actually get into what's really valuable here. Which is lessons and learning. So Ben: have you ever had a serious confrontation with another man? 

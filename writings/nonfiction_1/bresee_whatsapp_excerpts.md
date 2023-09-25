@@ -1,3 +1,5 @@
+# Bresee Whatsapp Excerpt
+
 8/24/21, 00:28
 B: hung w/ apartment mates. Got a little discouraged by how much compromise on good living is called for.
 B: One particular sticking point, Alex doesn't want to just share food.

@@ -1,4 +1,4 @@
-600w two people argue over the content of speech they both heard
+# Reconstitute
 
 The train's PA system crackled to life, and through the impenetrable static of corroding sound equipment and insurmountable apathy, the train operator announced the incidental route changes.
 "Schmr intrrr prrrichktt." it seemed to say, with great authority. 

@@ -1,13 +1,17 @@
 ## I have to move to a new home soon
+
 ### Why I live here (arrived to NYC for the story thing, gotta make a home anyway)
-	I moved to New York City to study at Columbia University. I enrolled to the university's School of General Studies, a college with administrative nuance designed to be more accomodating of non-traditional students. It is a small school within the university, but it touts the differentiating significance of each of its students' indirect paths to higher education. Most of my classmates had moved to New York from somewhere else like I did. Most of them had found apartments off campus like I did.
+
+I moved to New York City to study at Columbia University. I enrolled to the university's School of General Studies, a college with administrative nuance designed to be more accomodating of non-traditional students. It is a small school within the university, but it touts the differentiating significance of each of its students' indirect paths to higher education. Most of my classmates had moved to New York from somewhere else like I did. Most of them had found apartments off campus like I did.
 
 
-	I moved to New York City to finish getting a degree. I wanted to finish what I started. I many times identified my desire to make good on the faith my grandpa and family placed in me when supporting my efforts to get into school years ago. I am the center of some story being told; going back to school would fulfill that arc for me, and for how I think of myself in the eyes of my family. 
+I moved to New York City to finish getting a degree. I wanted to finish what I started. I many times identified my desire to make good on the faith my grandpa and family placed in me when supporting my efforts to get into school years ago. I am the center of some story being told; going back to school would fulfill that arc for me, and for how I think of myself in the eyes of my family. 
 
 ### Why I want to leave my current apartment
-	I want to leave my current apartment because it doesn't feel like home. My apartment has kept me warm through the winter. It has afforded physical security to my person and my belongings. It has met with the basic requirement for shelter, but it isn't a home to me. The walls are a cold white, the cabinets have plasticky grey wood-grain veneer sides, whiteboard faces, and are edged with metal. The jolly neighbors across the landing moved out two months ago, victims of a better deal. All the other residents of my building live one of the four floors below. From my apartment door, I occasionally hear Zach getting home to 4F after a day teaching. For the most part, though, I shuttle up and down the black stairs from apartment to street without seeing anyone.
-	My housemates haven't expressed my dissatisfactions with our apartment. **TODO** write about James being down for whatever but that meaning no preference with which to make improvements, Alex down for nothing at all and so prevents any change. Music/food/engagement in one another's lives (that last piece exists w/ me and james, so let's live together?)
+
+I want to leave my current apartment because it doesn't feel like home. My apartment has kept me warm through the winter. It has afforded physical security to my person and my belongings. It has met with the basic requirement for shelter, but it isn't a home to me. The walls are a cold white, the cabinets have plasticky grey wood-grain veneer sides, whiteboard faces, and are edged with metal. The jolly neighbors across the landing moved out two months ago, victims of a better deal. All the other residents of my building live one of the four floors below. From my apartment door, I occasionally hear Zach getting home to 4F after a day teaching. For the most part, though, I shuttle up and down the black stairs from apartment to street without seeing anyone.
+
+My housemates haven't expressed my dissatisfactions with our apartment. **TODO** write about James being down for whatever but that meaning no preference with which to make improvements, Alex down for nothing at all and so prevents any change. Music/food/engagement in one another's lives (that last piece exists w/ me and james, so let's live together?)
 
 ### Is it even a home?
 + Open the question: what is a home?
