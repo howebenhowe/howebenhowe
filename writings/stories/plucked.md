@@ -1,4 +1,4 @@
-Plucked
+# Plucked
 
 We already ate all the best cherries. We'd been gobbling them up for weeks, well before they were properly ripe. It's a Royal Anne cherry tree. They start small and green, just a bitter skin wrapped around the pit, and then they fatten until they are thickly yellow with blotches and blushes of red. The red ones we can get to easy are gone though, and today is our last chance to pick before we head out on our Big Trip East to see Mom's uncle and a whole bunch of people she keeps mentioning and we keep forgetting. But we've already packed, and so mom said we could pick cherries for the road while they load the car.
 
