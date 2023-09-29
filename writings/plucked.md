@@ -1,0 +1,17 @@
+Plucked
+
+We already ate all the best cherries. We'd been gobbling them up for weeks, well before they were properly ripe. It's a Royal Anne cherry tree. They start small and green, just a bitter skin wrapped around the pit, and then they fatten until they are thickly yellow with blotches and blushes of red. The red ones we can get to easy are gone though, and today is our last chance to pick before we head out on our Big Trip East to see Mom's uncle and a whole bunch of people she keeps mentioning and we keep forgetting. But we've already packed, and so mom said we could pick cherries for the road while they load the car.
+
+The tree is eighty years old. It might still be growing a little, but it's already a big tree. An adult. The lowest branches, the oldest ones, reach out overhead from the trunk, and the tree house our dad built sits pretty flat in that first forking crown. Ben goes first, scrambling up the rope ladder and onto the platform. His feet are black on the bottom, stained from a summer unshod. I'm up after him, and we survey the branches for cherries. None in easy reach, but tempting clusters of five and eight bob on twigs further out. I climb over the treehouse railing and lower my belly to the bough. Even while crawling, every shift of my weight sends a shiver through the nearest leaves. The bark under my fingers is so smooth it shines except where scabby fissures break it up. I move my hands and feet one at a time, making slow progress. Ben says something behind me, but I can't hear him. I lift up a bit on my arms and start to turn toward him, but my hand slips and suddenly I'm falling. My arms are out and there's rocks, but then it's loud and bright and hot and I'm yelling, my head hurts, it hurts it hurts.
+
+~
+
+The car was already packed. We were set to leave, for Indiana, the reunion was set for July. Plan was we'd drive by way of the Jane and Michael Stern book, *Road Food*. Many places to eat, see the world's biggest rubber band. Plus the man who made concrete sculptures and had entombed his wife in his back yard, Sam Dinsmoor. Then the front door slammed and Ben was yelling "Peter fell on his head".
+I ran out at flank speed; I needed to find my baby, what happened to him. There he was at the base of the tree, sitting and blinking pie-eyed. Ah christ, he's had a concussion. The goose egg was already forming. Did we need to take him to the hospital? I asked him some questions. Show me where it hurts.
+I'm okay, I'm okay, he kep saying--the original stoic. Meanwhile, Dan was riding herd on the other three, getting them into the car and buckled. It didn't seem like a concussion. After you came and got me, I can't remember what you were doing. Floating in the background. We put some ice on it and hit the road. There was no blood and we were on a tight schedule.
+
+~
+
+"I mostly remember sudden panic caught up in my throat. You climbed out on that branch and fell--I can see the tree and the ladder, but maybe not from that day. I can't remember if you went up first." I say.
+It's two in the morning and Peter's packing for a train that leaves in four hours. The train will take him to Seattle to see our parents. He can't remember much from that day either: his arms outstretched, rocks rushing up, the sky. 
+Time wore away the details, mixed the images from that day with the other stories we share. A couple parts were durable enough to resist erosion. Sick white blazing, an egg shaped tension in my throat, a possible wrongness in the world pressing to be born, my own voice ringing alone.
