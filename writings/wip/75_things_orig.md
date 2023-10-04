@@ -22,7 +22,7 @@
 1. "etymology [word]" is my most common query
 1. "define [word]" is the my second most common query
 1. "15 minute timer" and "weather" probably share the bronze.
-1. [redacted]
+1. I used to be sure I loved everyone in my family. Now I'm sure I love my brothers and my mom. I don't think I knew my sister before, and the more I get to know her the better I like her. It's strange with her son, my nephew Aspen. Do I love him? I've only spent a few dozen hours with him. That's slippery.
 1. The other day I was talking out the back window with my dad. It was very cold outside. Aspen walked over and tugged at my elbow. "What's up, Aspen?" "Uncle Ben, you need to close the window. It's making me really cold." "Aspen, the rest of the house is warm. Why did you come over here by the window where it's cold?" "I really needed to tell you that."
 1. I wanted to tell Aspen why that was funny to me, but I couldn't get my head through the puzzle of explaining to a kid why nonsense is funny when he hasn't yet had the distinction ruled into his thinking.
 1. When you melt ice in very cold water, it gets riddled with holes and veins before it melts. I can't get enough of that phenomenon.
