@@ -84,5 +84,6 @@ export default defineConfig({
 			"/jackal/": { base: "/jackal/", items: sidebarJackal() },
 			"/writings/": { base: "/writings/", items: sidebarWriting() },
 		}
-	}
+	},
+	srcExclude: ['**/wip/**'],
 });
