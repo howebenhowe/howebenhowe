@@ -56,6 +56,7 @@ const sidebarWriting = (): DefaultTheme.SidebarItem[] => [
 			{ text: "Sam Hug", link: "sam_hug" },
 			{ text: "Silent Film", link: "silent_film" },
 			{ text: "Stinky Fish", link: "stinky_fish" },
+			{ text: "Stir", link: "stir" },
 			{ text: "Sweet Sour", link: "sweet_sour" },
 			{ text: "TV", link: "tv" },
 			{ text: "Untitled [after Bolaño]", link: "untitled_(bolano)" },
