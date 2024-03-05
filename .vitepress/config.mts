@@ -63,6 +63,7 @@ const sidebarWriting = (): DefaultTheme.SidebarItem[] => [
 			{ text: "Vee", link: "vee" },
 			{ text: "Visiting Home", link: "visiting_home" },
 			{ text: "Whiteout", link: "whiteout" },
+			{ text: "Wide Arms", link: "wide_arms" },
 		]
 	}
 ];
