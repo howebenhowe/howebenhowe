@@ -1,4 +1,4 @@
 node_modules
 .vitepress/cache
 .vitepress/dist
-.m4a
+*.m4a
