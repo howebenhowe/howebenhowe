@@ -54,6 +54,7 @@ const sidebarWriting = (): DefaultTheme.SidebarItem[] => [
 			{ text: "Reconstitute", link: "reconstitute" },
 			{ text: "Reluctant", link: "reluctant" },
 			{ text: "Sam Hug", link: "sam_hug" },
+			{ text: "Seams", link: "seams" },
 			{ text: "Silent Film", link: "silent_film" },
 			{ text: "Stinky Fish", link: "stinky_fish" },
 			{ text: "Stir", link: "stir" },
