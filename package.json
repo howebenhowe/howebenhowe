@@ -1,13 +1,13 @@
 {
-	"name": "howebenhowe",
-	"description": "Ben Howe's personal site",
-  "devDependencies": {
-    "vitepress": "1.0.0-rc.10"
-  },
+  "name": "howebenhowe",
+  "description": "Ben Howe's personal site",
   "scripts": {
     "howebenhowe:dev": "vitepress dev",
     "howebenhowe:build": "vitepress build",
     "howebenhowe:preview": "vitepress preview"
   },
-	"license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.1.0"
+  }
 }
