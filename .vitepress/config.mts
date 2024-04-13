@@ -42,7 +42,6 @@ const sidebarWriting = (): DefaultTheme.SidebarItem[] => [
 			{ text: "Execution", link: "execution" },
 			{ text: "Flaneur", link: "flaneur" },
 			{ text: "I'm trying I'm trying", link: "im_trying_im_trying" },
-			{ text: "Literary Stalking", link: "literary_stalking" },
 			{ text: "Meddling", link: "meddling" },
 			{ text: "Morning on St Nicholas", link: "morning_on_St_Nicholas" },
 			{ text: "My Father's Belt", link: "my_fathers_belt" },
@@ -86,5 +85,9 @@ export default defineConfig({
 			"/writings/": { base: "/writings/", items: sidebarWriting() },
 		}
 	},
-	srcExclude: ['**/wip/**'],
+	srcExclude: [
+		'**/wip/**',
+		'**/sources/**',
+		'**/unpublished/**',
+	]
 });
