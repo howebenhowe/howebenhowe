@@ -1,7 +1,5 @@
 # Bodrum Piece Feedback
 
-+ "I hope  it's about pirates" - charlie
-+ credit card worry from nina
 + "Capitan" and "Hero" are derailing for stephanie and aryn
 + They dig the 'fraternal silent alarm system'
 + Margot: you don't get to see what the first person is thinking, like "'Capitan', I thought", which leaves more up to interpretation -- which gets in the way in the written format of a spoken story
