@@ -78,6 +78,7 @@ export default defineConfig({
 		"writings/:class/:filename": "writings/:filename"
 	},
 	themeConfig: {
+		sidebarMenuLabel: "Writings",
 		outline: 2,
 		search: { provider: "local" },
 		nav: nav(),
