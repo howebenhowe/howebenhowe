@@ -41,6 +41,7 @@ const sidebarWriting = (): DefaultTheme.SidebarItem[] => [
 			{ text: "Doubling", link: "doubling" },
 			{ text: "Execution", link: "execution" },
 			{ text: "Flaneur", link: "flaneur" },
+			{ text: "Frenchmen", link: "frenchmen" },
 			{ text: "I'm trying I'm trying", link: "im_trying_im_trying" },
 			{ text: "Meddling", link: "meddling" },
 			{ text: "Morning on St Nicholas", link: "morning_on_St_Nicholas" },
