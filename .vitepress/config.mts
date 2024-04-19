@@ -74,9 +74,6 @@ export default defineConfig({
 	head: [
 		["link", { rel: "icon", href: "/favicon.ico" }],
 	],
-	rewrites: {
-		"writings/:class/:filename": "writings/:filename"
-	},
 	themeConfig: {
 		sidebarMenuLabel: "Writings",
 		outline: 2,
