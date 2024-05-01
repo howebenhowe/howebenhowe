@@ -6,3 +6,25 @@
   --vp-c-brand-1: #D84727;
   --vp-c-brand-2: #CDEDF6;
 }
+
+p {
+	text-indent: 20px;
+}
+
+.tip,.warning {
+	p {
+		text-indent: unset;
+	}
+}
+
+.warning p {
+	text-align: right;
+}
+
+.center p {
+	text-align: center;
+}
+
+.left p {
+	text-indent: unset;
+}

@@ -1,4 +1,5 @@
 import { defineConfig, type DefaultTheme } from 'vitepress'
+import markdownItFootnote from 'markdown-it-footnote'
 
 const nav = (): DefaultTheme.NavItem[] => [
 	{
@@ -49,6 +50,7 @@ const sidebarWriting = (): DefaultTheme.SidebarItem[] => [
 			{ text: "Nola Stairs", link: "nola_stairs" },
 			{ text: "Frenchmen", link: "frenchmen" },
 			{ text: "Plucked", link: "plucked" },
+			{ text: "Personal Best", link: "personal_best" },
 			{ text: "Quiet", link: "quiet" },
 			{ text: "Reconstitute", link: "reconstitute" },
 			{ text: "Reluctant", link: "reluctant" },
@@ -74,6 +76,15 @@ export default defineConfig({
 	head: [
 		["link", { rel: "icon", href: "/favicon.ico" }],
 	],
+	markdown: {
+		container: {
+			tipLabel: 'peter',
+			warningLabel: 'ben'
+		},
+		config: (md) => {
+			md.use(markdownItFootnote)
+		}
+	},
 	themeConfig: {
 		sidebarMenuLabel: "Writings",
 		outline: 2,
