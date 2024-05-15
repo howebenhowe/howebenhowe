@@ -48,6 +48,7 @@ const sidebarWriting = (): DefaultTheme.SidebarItem[] => [
 			{ text: "Morning on St Nicholas", link: "morning-on-St-Nicholas" },
 			{ text: "My Father's Belt", link: "my-fathers-belt" },
 			{ text: "Nola Stairs", link: "nola-stairs" },
+			{ text: "Fall", link: "fall" },
 			{ text: "Frenchmen", link: "frenchmen" },
 			{ text: "Pandemonium", link: "pandemonium" },
 			{ text: "Plucked", link: "plucked" },
